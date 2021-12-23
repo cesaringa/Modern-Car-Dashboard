@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Rueckfahrkamera.jpg</file>
+        <file>fuel-icon.png</file>
+        <file>car.png</file>
+        <file>warning.png</file>
+        <file>car@2x.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
